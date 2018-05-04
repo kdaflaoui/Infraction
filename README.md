@@ -28,3 +28,8 @@ Créer une affraction et l'associer à un client (sa voiture)
 
 Paiement 
 
+- 1 
+![admin2](https://user-images.githubusercontent.com/26189475/39655487-e4b4ec3c-4fc7-11e8-9d7f-9939bd70c677.jpg)
+
+
+2- 
