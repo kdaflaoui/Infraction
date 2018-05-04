@@ -42,3 +42,4 @@ Confirmation de paiement
 
 Le récapetulatif
 
+![recap](https://user-images.githubusercontent.com/26189475/39655646-ce5cad2a-4fc8-11e8-8078-8471faf8fcaf.jpg)
