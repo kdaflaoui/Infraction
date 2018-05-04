@@ -1,9 +1,9 @@
 # Infraction
 Une application java qui permet aus clients de payer de payer leurs amendes 
-Java
-Netbeans
-La persistance de spring
-MySQL base de données 
+  Java
+  Netbeans
+  La persistance de spring
+  MySQL base de données 
 
 
 System de Login
@@ -24,3 +24,7 @@ Infos client
 Créer une affraction et l'associer à un client (sa voiture) 
 
 ![admin1](https://user-images.githubusercontent.com/26189475/39655035-91ab4196-4fc5-11e8-9951-82f118cddd4c.jpg)
+
+
+Paiement 
+
