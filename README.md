@@ -31,8 +31,14 @@ Paiement
 - 1 
 ![admin2](https://user-images.githubusercontent.com/26189475/39655487-e4b4ec3c-4fc7-11e8-9d7f-9939bd70c677.jpg)
 
+-2 
+
+![admin3](https://user-images.githubusercontent.com/26189475/39655520-0a03a0b4-4fc8-11e8-92c4-01f4c67a4879.jpg)
+
 
 Confirmation de paiement 
 
 ![admin4](https://user-images.githubusercontent.com/26189475/39655529-15219faa-4fc8-11e8-995c-abee6dbc6a5d.jpg)
+
+Le récapetulatif
 
