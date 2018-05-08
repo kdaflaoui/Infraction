@@ -1,10 +1,12 @@
 # Infraction
-Une application java qui permet aus clients de payer de payer leurs amendes 
-  Java
-  Netbeans
-  La persistance de spring
-  MySQL base de données 
-
+Une application java qui permet aux clients de payer leurs amendes 
+  # Java
+  # Netbeans
+  # Spring Data JPA
+  # MySQL comme base de données 
+  # Implementer une couche metier 
+  # Implementer une couche DAO
+  # Implementer une couche vue
 
 ############ System de Login
 #
