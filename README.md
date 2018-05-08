@@ -1,12 +1,12 @@
 # Infraction
 Une application java qui permet aux clients de payer leurs amendes 
-  ## Java
-  ## Netbeans
-  ## Spring Data JPA
-  ## MySQL comme base de données 
-  ## Implementer une couche metier 
-  ## Implementer une couche DAO
-  ## Implementer une couche vue
+  ### Java
+  ### Netbeans
+  ### Spring Data JPA
+  ### MySQL comme base de données 
+  ### Implementer une couche metier 
+  ### Implementer une couche DAO
+  ### Implementer une couche vue
 
 ############ System de Login
 #
